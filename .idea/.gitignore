@@ -6,3 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+demo_v2.iml
+*.xml
+codeStyles
+index.pb
